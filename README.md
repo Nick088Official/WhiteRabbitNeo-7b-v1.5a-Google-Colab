@@ -1,5 +1,5 @@
 # WhiteRabbitNeo-7b-v1.5a-Google-Colab
-Google Colab for WhiteRabbitNeo-7b-v1.5a AI Model for Cybersecurity
+Google Colab for WhiteRabbitNeo-7b-v1.5a AI Model for Offensive/Uncensored Cybersecurity
 
 # Usage
 
